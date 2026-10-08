@@ -1,0 +1,8 @@
+test_metadata_failure_does_not_replace_database_error (tools.test_two_factor_diagnostics.PermissionDiagnosticTests.test_metadata_failure_does_not_replace_database_error) ... ok
+test_permission_log_excludes_secrets_and_preserves_exception (tools.test_two_factor_diagnostics.PermissionDiagnosticTests.test_permission_log_excludes_secrets_and_preserves_exception) ... ok
+test_success_returns_state_without_diagnostic (tools.test_two_factor_diagnostics.PermissionDiagnosticTests.test_success_returns_state_without_diagnostic) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.002s
+
+OK

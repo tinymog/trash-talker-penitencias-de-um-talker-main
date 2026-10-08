@@ -1,0 +1,7 @@
+# Dependências só para desenvolvimento e testes (a Vercel instala apenas
+# requirements.txt). Uso: python -m pip install -r requirements-dev.txt
+-r requirements.txt
+pytest==9.1.1
+behave==1.3.3
+pyflakes==4.0.3
+playwright==1.63.0  # só para e2e/ (teste de interface); ver docs/testes.md

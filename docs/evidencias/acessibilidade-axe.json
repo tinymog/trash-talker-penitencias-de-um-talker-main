@@ -1,0 +1,223 @@
+{
+ "axe": "4.11.0",
+ "tags": [
+  "wcag2a",
+  "wcag2aa",
+  "wcag21a",
+  "wcag21aa"
+ ],
+ "paginas": [
+  {
+   "rota": "/",
+   "tema": "light",
+   "violations": [],
+   "passes": 16,
+   "incomplete": []
+  },
+  {
+   "rota": "/login",
+   "tema": "light",
+   "violations": [],
+   "passes": 23,
+   "incomplete": []
+  },
+  {
+   "rota": "/signup",
+   "tema": "light",
+   "violations": [],
+   "passes": 23,
+   "incomplete": []
+  },
+  {
+   "rota": "/forgot-password",
+   "tema": "light",
+   "violations": [],
+   "passes": 22,
+   "incomplete": []
+  },
+  {
+   "rota": "/reset-password?token=x",
+   "tema": "light",
+   "violations": [],
+   "passes": 22,
+   "incomplete": []
+  },
+  {
+   "rota": "/reset-password",
+   "tema": "light",
+   "violations": [],
+   "passes": 22,
+   "incomplete": []
+  },
+  {
+   "rota": "/privacy",
+   "tema": "light",
+   "violations": [],
+   "passes": 12,
+   "incomplete": [
+    "color-contrast"
+   ]
+  },
+  {
+   "rota": "/terms",
+   "tema": "light",
+   "violations": [],
+   "passes": 12,
+   "incomplete": []
+  },
+  {
+   "rota": "/cookies",
+   "tema": "light",
+   "violations": [],
+   "passes": 14,
+   "incomplete": [
+    "color-contrast"
+   ]
+  },
+  {
+   "rota": "/pagina-inexistente",
+   "tema": "light",
+   "violations": [],
+   "passes": 17,
+   "incomplete": []
+  },
+  {
+   "rota": "/dashboard",
+   "tema": "light",
+   "violations": [],
+   "passes": 26,
+   "incomplete": [
+    "aria-valid-attr-value"
+   ]
+  },
+  {
+   "rota": "/dashboard/chat/f94f01a2e4571d27e9fc8ead",
+   "tema": "light",
+   "violations": [],
+   "passes": 27,
+   "incomplete": [
+    "aria-valid-attr-value"
+   ]
+  },
+  {
+   "rota": "/dashboard/account",
+   "tema": "light",
+   "violations": [],
+   "passes": 28,
+   "incomplete": []
+  },
+  {
+   "rota": "/dashboard/settings",
+   "tema": "light",
+   "violations": [],
+   "passes": 30,
+   "incomplete": []
+  },
+  {
+   "rota": "/",
+   "tema": "dark",
+   "violations": [],
+   "passes": 16,
+   "incomplete": []
+  },
+  {
+   "rota": "/login",
+   "tema": "dark",
+   "violations": [],
+   "passes": 23,
+   "incomplete": []
+  },
+  {
+   "rota": "/signup",
+   "tema": "dark",
+   "violations": [],
+   "passes": 23,
+   "incomplete": []
+  },
+  {
+   "rota": "/forgot-password",
+   "tema": "dark",
+   "violations": [],
+   "passes": 22,
+   "incomplete": []
+  },
+  {
+   "rota": "/reset-password?token=x",
+   "tema": "dark",
+   "violations": [],
+   "passes": 22,
+   "incomplete": []
+  },
+  {
+   "rota": "/reset-password",
+   "tema": "dark",
+   "violations": [],
+   "passes": 22,
+   "incomplete": []
+  },
+  {
+   "rota": "/privacy",
+   "tema": "dark",
+   "violations": [],
+   "passes": 12,
+   "incomplete": [
+    "color-contrast"
+   ]
+  },
+  {
+   "rota": "/terms",
+   "tema": "dark",
+   "violations": [],
+   "passes": 12,
+   "incomplete": []
+  },
+  {
+   "rota": "/cookies",
+   "tema": "dark",
+   "violations": [],
+   "passes": 14,
+   "incomplete": [
+    "color-contrast"
+   ]
+  },
+  {
+   "rota": "/pagina-inexistente",
+   "tema": "dark",
+   "violations": [],
+   "passes": 17,
+   "incomplete": []
+  },
+  {
+   "rota": "/dashboard",
+   "tema": "dark",
+   "violations": [],
+   "passes": 26,
+   "incomplete": [
+    "aria-valid-attr-value"
+   ]
+  },
+  {
+   "rota": "/dashboard/chat/f94f01a2e4571d27e9fc8ead",
+   "tema": "dark",
+   "violations": [],
+   "passes": 27,
+   "incomplete": [
+    "aria-valid-attr-value"
+   ]
+  },
+  {
+   "rota": "/dashboard/account",
+   "tema": "dark",
+   "violations": [],
+   "passes": 28,
+   "incomplete": []
+  },
+  {
+   "rota": "/dashboard/settings",
+   "tema": "dark",
+   "violations": [],
+   "passes": 30,
+   "incomplete": []
+  }
+ ]
+}

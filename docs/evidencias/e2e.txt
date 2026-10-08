@@ -1,0 +1,17 @@
+============================= test session starts =============================
+platform win32 -- Python 3.14.2, pytest-9.1.1, pluggy-1.6.0 -- <projeto>\.venv\Scripts\python.exe
+rootdir: <projeto>
+configfile: pytest.ini
+plugins: anyio-4.15.1
+collecting ... collected 8 items
+
+e2e/test_fluxo_navegador.py::test_cadastro_pela_tela_leva_ao_login_com_aviso PASSED [ 12%]
+e2e/test_fluxo_navegador.py::test_senha_errada_mostra_erro_e_a_certa_abre_o_painel PASSED [ 25%]
+e2e/test_fluxo_navegador.py::test_nome_com_aspas_aparece_como_texto_e_nao_executa PASSED [ 37%]
+e2e/test_fluxo_navegador.py::test_mensagem_enviada_continua_na_tela_e_o_resultado_e_visivel PASSED [ 50%]
+e2e/test_fluxo_navegador.py::test_configuracoes_mostram_a_conta_e_o_2fa PASSED [ 62%]
+e2e/test_fluxo_navegador.py::test_pagina_inexistente_e_sair_da_conta PASSED [ 75%]
+e2e/test_fluxo_navegador.py::test_login_usando_so_o_teclado_com_foco_visivel PASSED [ 87%]
+e2e/test_fluxo_navegador.py::test_celular_menu_alcancavel_e_sem_rolagem_horizontal PASSED [100%]
+
+============================== 8 passed in 8.73s ==============================
